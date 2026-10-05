@@ -1,4 +1,4 @@
-# SLMO: A Deployment Failure Taxonomy for Robot Systems
+# SLMO: Deployment Failure Taxonomy for Robot Systems
 
 Companion repository for the HRI 2027 Industry White Paper:
 
