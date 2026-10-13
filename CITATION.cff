@@ -1,15 +1,1 @@
-cff-version: 1.2.0
-message: "If you use / adapt this framework, please cite this work."
-title: "SLMO: Deployment Failure Taxonomy for Robot Systems"
-abstract: "Companion repository for the HRI 'When Robot Deployments Fail: A Practitioner's Taxonomy'."
-authors:
-  - family-names: "Arvind"
-    given-names: ""
-    orcid: "https://orcid.org/0000-0002-0456-7122"
-  - family-names: "Saurav"
-    given-names: "Sumeet"
-    orcid: "https://orcid.org/0000-0002-4375-4107"
-version: "1.0.0"
-date-released: "2026-10-05"
-license: "CC-BY-4.0"
-repository-code: "https://github.com/arvindsihag/slmo"
+Available Soon
